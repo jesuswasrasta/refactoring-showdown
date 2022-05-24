@@ -6,7 +6,7 @@ Ci si divide in squadre.
 Ogni squadra ha un capitano e un computer su cui lavorare.  
 Il capitano mostrerà quanto fatto al termine delle sessioni di refactoring.  
 Le squadre si possono formare in vari modi: aggregandosi per linguaggio, per livello di esperienza, oppure tipo al calcetto: i capitani a turno scelgono un giocatore.  
-### 24/05/2022: 1a edizione, TDD Milano
+### 24/05/2022: 2a edizione, XPUGBG Bergamo
 - [XPUGBG Meetup](https://www.meetup.com/it-IT/xpugbg/events/285713930/)
 - [Board Miro con appunti](https://miro.com/app/board/uXjVOyETY8s=/)
 ### 13/04/2022: 1a edizione, TDD Milano
