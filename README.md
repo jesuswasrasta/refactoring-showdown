@@ -1,4 +1,4 @@
-# Refactoring Showdown Workshpop
+# Refactoring Showdown Workshop
 Just a random workshop on refactoring 😄
 
 ## Come si svolge il workshop
@@ -72,7 +72,7 @@ $ git checkout master
   Your branch is up to date with 'origin/master'.
 ~~~
 
-Vedo l'hash dl 1° commit che ho fatto sul branch `refactoring` (commit `b585367`)
+Vedo l'hash del 1° commit che ho fatto sul branch `refactoring` (commit `b585367`)
 ~~~sh
 $ git next refactoring
   b585367e87519fab87c1e186fc1d3b07622831d3
